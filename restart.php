@@ -19,41 +19,7 @@
 <html>
 <head>
 <title>Controll Panel ala JoccE</title>
-<style>
-body {
-    background-color: black;
-    color: white;
-}
-#header {
-	width: 1000px;	
-	height: 40px;
-	border-style: solid;
-    border-width: 2px;		
-    margin-left: auto;
-    margin-right: auto;
-}
-#body {
-	width: 1000px;	
-	border-style: solid;
-    border-width: 2px;	
-    margin-left: auto;
-    margin-right: auto;
-    min-height: 100px;
-}
-#footer {
-	height: 20px;
-	width: 1000px;	
-	border-style: solid;
-    border-width: 2px;	
-    margin-left: auto;
-    margin-right: auto;
-}
-.left {
-	float: left;
-	margin-top: 6px;
-	margin-left: 4px;
-}
-</style>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 </head>
 <body>
 <div id="header">
