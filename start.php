@@ -1,7 +1,7 @@
 <?php
 	//Multicraft API Settings
 	require('MulticraftAPI.php');
-	$api = new MulticraftAPI('http://jocce.nu/multicraft/api.php', 'jocce', '672dfe87834abb8408e0');
+	$api = new MulticraftAPI('http://example.com/api.php', 'YOURUSER', 'YOURAPICODE');
 	
 	//ServerID here
 	$serverid = 9;
