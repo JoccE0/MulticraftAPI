@@ -41,7 +41,7 @@
 	<?php
 	for ($i = $sista; $i >= $sista-$rows; $i--) {
 	
-	print_r($api->getServerLog(9)[data][$i]['line']);
+	print_r($api->getServerLog($serverid)[data][$i]['line']);
 	print "<br/>";
 	}
 	?>
