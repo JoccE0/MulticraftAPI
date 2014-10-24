@@ -30,12 +30,12 @@ body {
 }
 .left {
 	float: left;
-	margin-top: 6px;
+
 	margin-left: 4px;
 }
 .right{
 	float: left;
-	margin-top: 6px;
+	margin-top: 10px;
 }
 #console{
 	margin-top: -40px;	
